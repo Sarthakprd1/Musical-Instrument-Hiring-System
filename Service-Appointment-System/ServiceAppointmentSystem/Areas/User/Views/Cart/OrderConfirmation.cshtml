@@ -1,0 +1,23 @@
+﻿@using ServiceAppointmentSystem.Models.ViewModels;
+@model List<OrderDetailViewModel>
+
+@{
+    ViewData["Title"] = "Order Confirmation";
+}
+
+<div class="container row mt-5">
+    <div class="col-12 text-center mt-2">
+        <h1 class="text-primary text-center">Order Placed Successfully</h1>
+        <div class="text-bg-info mt-4">Your order number is @Model.FirstOrDefault().OrderId</div>
+
+        @foreach(var item in Model)
+        {
+            <h1 class="text-dark text-center">
+                Item:</h1> @item.ProductName
+            <h1 class="text-dark text-center">Count:</h1> @item.ProductCount
+
+            <h1 class="text-dark text-center">Total Price:</h1> @item.TotalPrice
+
+        }
+    </div>
+</div>

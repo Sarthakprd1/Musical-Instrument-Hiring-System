@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Music Instrument Hiring System.props" />
+</Project>

@@ -1,0 +1,465 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Music Instrument Hiring System.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Music Instrument Hiring System.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\bgpic.png",
+      "PackagePath": "staticwebassets\\images\\bgpic.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\certifications\\[Carpenting - dT70Zgmx] Carpenter1 - Certification.pdf",
+      "PackagePath": "staticwebassets\\images\\certifications\\[Carpenting - dT70Zgmx] Carpenter1 - Certification.pdf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\certifications\\[Driver - F1whSDpL] Damien Rice - Certification.pdf",
+      "PackagePath": "staticwebassets\\images\\certifications\\[Driver - F1whSDpL] Damien Rice - Certification.pdf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\certifications\\[Driver - rQPMZx64] Damien Rice - Certification.pdf",
+      "PackagePath": "staticwebassets\\images\\certifications\\[Driver - rQPMZx64] Damien Rice - Certification.pdf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\certifications\\[Gardener - ekx2VEV0] Gabriel Young - Certification.pdf",
+      "PackagePath": "staticwebassets\\images\\certifications\\[Gardener - ekx2VEV0] Gabriel Young - Certification.pdf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\certifications\\[Mechanic - IMCFMBfA] Professional1 - Certification.pdf",
+      "PackagePath": "staticwebassets\\images\\certifications\\[Mechanic - IMCFMBfA] Professional1 - Certification.pdf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\certifications\\[Plumber - Y8rbcS0l] Patrick Mike - Certification.pdf",
+      "PackagePath": "staticwebassets\\images\\certifications\\[Plumber - Y8rbcS0l] Patrick Mike - Certification.pdf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\items\\0ba6484c-738e-4f96-878b-78a772584ed8 Yamaha G512 Acoustic Guitar.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\0ba6484c-738e-4f96-878b-78a772584ed8 Yamaha G512 Acoustic Guitar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\items\\12d6dfb8-551a-46d9-96cb-5d5319249a3c Azumi Flute .jpeg",
+      "PackagePath": "staticwebassets\\images\\items\\12d6dfb8-551a-46d9-96cb-5d5319249a3c Azumi Flute .jpeg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\items\\14a80b26-e0d5-40c6-9ab2-fdb3b70ef312 Painting Brush Set.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\14a80b26-e0d5-40c6-9ab2-fdb3b70ef312 Painting Brush Set.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\items\\383c36f0-f242-44c1-9007-bf85d14b8221 Yamaha Drums D34.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\383c36f0-f242-44c1-9007-bf85d14b8221 Yamaha Drums D34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\items\\3d813e9d-2d32-4135-8e33-932da9a83d9f Takamine Guitar.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\3d813e9d-2d32-4135-8e33-932da9a83d9f Takamine Guitar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\items\\510ff746-7cb8-4dd8-a960-028950297544 Violin V95.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\510ff746-7cb8-4dd8-a960-028950297544 Violin V95.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\items\\511f5dcf-27e0-4a36-86f5-17d9544ecc80 Yamaha Drums D34.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\511f5dcf-27e0-4a36-86f5-17d9544ecc80 Yamaha Drums D34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\items\\53d5b457-9112-4a08-b685-1523fa082741 Violin V95.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\53d5b457-9112-4a08-b685-1523fa082741 Violin V95.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\items\\5b09d5f8-1dde-4117-ac86-828ef80c6875 Yamaha Electric Guitar E12.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\5b09d5f8-1dde-4117-ac86-828ef80c6875 Yamaha Electric Guitar E12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\items\\5f714bb3-f3f7-4446-b696-7c453dda3d2e Yamaha Electric Guitar E12.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\5f714bb3-f3f7-4446-b696-7c453dda3d2e Yamaha Electric Guitar E12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\items\\65f5c99c-559b-4f7d-8a61-49f75e29ac67 Takamine Guitar.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\65f5c99c-559b-4f7d-8a61-49f75e29ac67 Takamine Guitar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\items\\69df7176-ca65-4595-96c3-11e1a8270fd9 Asian Paints.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\69df7176-ca65-4595-96c3-11e1a8270fd9 Asian Paints.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\items\\815e2c82-d38f-4754-ab8c-179382af4f2e Hammer.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\815e2c82-d38f-4754-ab8c-179382af4f2e Hammer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\items\\8702bc8c-c7c8-4ed6-bc54-496b340b8bee Azumi Flute .jpeg",
+      "PackagePath": "staticwebassets\\images\\items\\8702bc8c-c7c8-4ed6-bc54-496b340b8bee Azumi Flute .jpeg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\items\\87b32bf9-c063-4906-85bc-75a7210f9ba1 Wrench.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\87b32bf9-c063-4906-85bc-75a7210f9ba1 Wrench.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\items\\9677cde4-2d6c-4199-9d3a-e089d31399e8 Multiplug.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\9677cde4-2d6c-4199-9d3a-e089d31399e8 Multiplug.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\items\\a4b943cf-b7bb-438d-9b29-40f8809900f2 Violin V95.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\a4b943cf-b7bb-438d-9b29-40f8809900f2 Violin V95.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\items\\a64a6cee-4538-43fa-8b11-b38870b5cc4e Yamaha Bass Guitar B15E.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\a64a6cee-4538-43fa-8b11-b38870b5cc4e Yamaha Bass Guitar B15E.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\items\\b175c872-d74d-4524-ae49-77c201514593 Yamaha G512 Acoustic Guitar.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\b175c872-d74d-4524-ae49-77c201514593 Yamaha G512 Acoustic Guitar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\items\\bf1f3110-aa50-4231-b9b7-7017fcfb8397 Casio Piano C9 .jpg",
+      "PackagePath": "staticwebassets\\images\\items\\bf1f3110-aa50-4231-b9b7-7017fcfb8397 Casio Piano C9 .jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\items\\c8a97621-5117-49af-a6ee-c896011841e2 Casio Piano C9 .jpg",
+      "PackagePath": "staticwebassets\\images\\items\\c8a97621-5117-49af-a6ee-c896011841e2 Casio Piano C9 .jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\items\\d06f3009-7c56-4664-a44a-ec25ac6bdb11 Yamaha Bass Guitar B15E.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\d06f3009-7c56-4664-a44a-ec25ac6bdb11 Yamaha Bass Guitar B15E.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\items\\e2228163-14ab-4135-a625-02f6285ec06c Yamaha G512 Acoustic Guitar.jpg",
+      "PackagePath": "staticwebassets\\images\\items\\e2228163-14ab-4135-a625-02f6285ec06c Yamaha G512 Acoustic Guitar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\musicbg.jpg",
+      "PackagePath": "staticwebassets\\images\\musicbg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\resumes\\[Carpenting - dT70Zgmx] Carpenter1 - Resume.pdf",
+      "PackagePath": "staticwebassets\\images\\resumes\\[Carpenting - dT70Zgmx] Carpenter1 - Resume.pdf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\resumes\\[Driver - F1whSDpL] Damien Rice - Resume.pdf",
+      "PackagePath": "staticwebassets\\images\\resumes\\[Driver - F1whSDpL] Damien Rice - Resume.pdf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\resumes\\[Driver - rQPMZx64] Damien Rice - Resume.pdf",
+      "PackagePath": "staticwebassets\\images\\resumes\\[Driver - rQPMZx64] Damien Rice - Resume.pdf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\resumes\\[Gardener - ekx2VEV0] Gabriel Young - Resume.pdf",
+      "PackagePath": "staticwebassets\\images\\resumes\\[Gardener - ekx2VEV0] Gabriel Young - Resume.pdf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\resumes\\[Mechanic - IMCFMBfA] Professional1 - Resume.pdf",
+      "PackagePath": "staticwebassets\\images\\resumes\\[Mechanic - IMCFMBfA] Professional1 - Resume.pdf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\resumes\\[Plumber - Y8rbcS0l] Patrick Mike - Resume.pdf",
+      "PackagePath": "staticwebassets\\images\\resumes\\[Plumber - Y8rbcS0l] Patrick Mike - Resume.pdf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\users\\[Employee - F1whSDpL] Damien Rice - Image.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\[Employee - F1whSDpL] Damien Rice - Image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\users\\[Employee - IMCFMBfA] Professional1 - Image.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\[Employee - IMCFMBfA] Professional1 - Image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\users\\[Employee - Y8rbcS0l] Patrick Mike - Image.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\[Employee - Y8rbcS0l] Patrick Mike - Image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\users\\[Employee - dT70Zgmx] Carpenter1 - Image.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\[Employee - dT70Zgmx] Carpenter1 - Image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\users\\[Employee - ekx2VEV0] Gabriel Young - Image.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\[Employee - ekx2VEV0] Gabriel Young - Image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\users\\[Employee - rQPMZx64] Damien Rice - Image.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\[Employee - rQPMZx64] Damien Rice - Image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\users\\[User - EJBrQS1S] Amish Budhathoki - Image.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\[User - EJBrQS1S] Amish Budhathoki - Image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\users\\[User - NYmQp0lG] Amish Budhathoki - Image.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\[User - NYmQp0lG] Amish Budhathoki - Image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\users\\[User - OTLLvH4I] Amish Budhathoki - Image.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\[User - OTLLvH4I] Amish Budhathoki - Image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\users\\[User - QvqbGkMV] rahish Dumbree - Image.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\[User - QvqbGkMV] rahish Dumbree - Image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\images\\users\\[User - b1xBmkvB] Hirose Shakya - Image.JPG",
+      "PackagePath": "staticwebassets\\images\\users\\[User - b1xBmkvB] Hirose Shakya - Image.JPG"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\js\\service.js",
+      "PackagePath": "staticwebassets\\js\\service.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Amish Development\\Service-Appointment-System\\ServiceAppointmentSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Music Instrument Hiring System.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Music Instrument Hiring System.props",
+      "PackagePath": "build\\Music Instrument Hiring System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Music Instrument Hiring System.props",
+      "PackagePath": "buildMultiTargeting\\Music Instrument Hiring System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Music Instrument Hiring System.props",
+      "PackagePath": "buildTransitive\\Music Instrument Hiring System.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
